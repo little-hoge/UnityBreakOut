@@ -1,29 +1,24 @@
-# UnityBreakOut
+# 操作方法
+#### 操作方法  
+- 左右：移動
 
-# Description
-I used it for a course for Unity beginners. It is a sample project.
+# デモ
+[UnityBreakOut](https://little-hoge.github.io/UnityBreakOut/)  
+[![43g214](https://user-images.githubusercontent.com/3638785/90319929-77aab580-df77-11ea-8088-d00934104093.gif)
+](https://little-hoge.github.io/UnityBreakOut/)
 
-Please watch this site.(Japanese site. Sry don't have English site...)
+# 開発環境
+- Windows10 64bit
+- unity2019.2.0f1  unity日本語化(https://www.sejuku.net/blog/56333)
+- Visual C# 2019
 
-[https://qiita.com/nmxi/private/7950fb12ef925efa276d](https://qiita.com/nmxi/private/7950fb12ef925efa276d)
+# 追加実装
+- WebGL出力
+- プレイヤー壁抜け修正
 
-
-Unityの初心者向け講座用に作成したサンプルプロジェクトです．
-
-以下の記事を参考にUnityの学習に役立てて頂けたら幸いです．
-
-[https://qiita.com/nmxi/private/7950fb12ef925efa276d](https://qiita.com/nmxi/private/7950fb12ef925efa276d)
-
-![43g214.gif](https://github.com/nmxi/UnityBreakOut/blob/master/DescriptionImages/43g214.gif)
-
-# How to use
-1.Clone this repository.
-
-2.Unity Setup. (Recommend open in Unity 2018.1.5f1 or newer than Unity 2018.1.5f1)
-
-3.Open Project in Unity.
-
-4.Enjoy!
+# 参考リンク
+- 今日からはじめるUnity  
+https://qiita.com/nmxi/items/7950fb12ef925efa276d
 
 # LICENSE
 MIT
