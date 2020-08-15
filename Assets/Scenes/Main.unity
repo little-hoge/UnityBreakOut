@@ -244,7 +244,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: -167856130, z: 4.5905e-41, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: -1.3321604e+34}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -814,6 +814,7 @@ GameObject:
   - component: {fileID: 1501068158}
   - component: {fileID: 1501068157}
   - component: {fileID: 1501068161}
+  - component: {fileID: 1501068162}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -906,6 +907,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea085c2d66019ee4aa0742c426e455dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!54 &1501068162
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1501068156}
+  serializedVersion: 2
+  m_Mass: 100
+  m_Drag: 0
+  m_AngularDrag: 0
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1724478174
 GameObject:
   m_ObjectHideFlags: 0
